@@ -8,6 +8,10 @@ public class Calculator_main {
 		int sum =obj.add(10, 50);
 		System.out.println(sum);
 		
+		int min =obj.sub(10, 50);
+		System.out.println(min);
+		
+		
 
 	}
 
