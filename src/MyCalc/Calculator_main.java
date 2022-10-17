@@ -10,6 +10,8 @@ public class Calculator_main {
 		
 		int min =obj.sub(10, 50);
 		System.out.println(min);
+		int mul =obj.multi(10, 50);
+		System.out.println(mul);
 		
 		
 
