@@ -12,6 +12,8 @@ public class Calculator_main {
 		System.out.println(min);
 		int mul =obj.multi(10, 50);
 		System.out.println(mul);
+		int divi =obj.div(10, 50);
+		System.out.println(divi);
 		
 		
 
